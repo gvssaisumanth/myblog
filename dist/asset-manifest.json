@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8784520c.chunk.css",
+    "main.js": "/static/js/main.8529dd32.chunk.js",
+    "main.js.map": "/static/js/main.8529dd32.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5eeb4e9f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5eeb4e9f.js.map",
+    "static/js/2.8cf98b3f.chunk.js": "/static/js/2.8cf98b3f.chunk.js",
+    "static/js/2.8cf98b3f.chunk.js.map": "/static/js/2.8cf98b3f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b41a1b6914baddfc3f5fb0ff9cec8ce8.js": "/precache-manifest.b41a1b6914baddfc3f5fb0ff9cec8ce8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8784520c.chunk.css.map": "/static/css/main.8784520c.chunk.css.map",
+    "static/js/2.8cf98b3f.chunk.js.LICENSE.txt": "/static/js/2.8cf98b3f.chunk.js.LICENSE.txt",
+    "static/media/Anime.png": "/static/media/Anime.dd2d6229.png",
+    "static/media/Tech.jpg": "/static/media/Tech.966c0e59.jpg",
+    "static/media/books.jpg": "/static/media/books.c03e4c79.jpg",
+    "static/media/style.css": "/static/media/logobackground5.579c8d8a.jpg",
+    "static/media/mypic.jpg": "/static/media/mypic.3c439644.jpg",
+    "static/media/ratantata.jpg": "/static/media/ratantata.41bc92d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eeb4e9f.js",
+    "static/js/2.8cf98b3f.chunk.js",
+    "static/css/main.8784520c.chunk.css",
+    "static/js/main.8529dd32.chunk.js"
+  ]
+}
